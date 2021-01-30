@@ -1,12 +1,12 @@
-#TITLE
+## TITLE
 
 Machine learning project made on top of the ML.NET - Prediction about taxi and uber fares
 
-#TECHNOLOGIES USED
+## TECHNOLOGIES USED
 
 - C# programming language
 - ML.NET
 
-#OWNER
+## OWNER
 
 - Matija Marić
